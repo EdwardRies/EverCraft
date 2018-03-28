@@ -23,7 +23,7 @@ namespace EverCraft.Tests
 
 
         [TestMethod]
-        public void CharacterIsEvilFail()
+        public void CharacterIsGood()
         {
             var character = new Character();            
 
